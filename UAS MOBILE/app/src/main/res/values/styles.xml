@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- Text style for list title -->
+    <style name="ListTitleText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- Text style for detail title -->
+    <style name="DetailTitleText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+</resources>

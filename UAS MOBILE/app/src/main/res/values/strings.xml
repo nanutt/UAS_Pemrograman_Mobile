@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="character_detail">Character Detail</string>
+    <string name="loading_characters">Loading Characters...</string>
+    <string name="failed_to_load_characters">Failed to load characters</string>
+</resources>
